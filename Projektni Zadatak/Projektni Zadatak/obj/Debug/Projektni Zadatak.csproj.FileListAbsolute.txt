@@ -1,0 +1,8 @@
+C:\Users\Dejan\Desktop\Z3_PR_2, PR45_2019, Dejan Kurdulija\Projektni Zadatak\Projektni Zadatak\bin\Debug\Projektni Zadatak.exe.config
+C:\Users\Dejan\Desktop\Z3_PR_2, PR45_2019, Dejan Kurdulija\Projektni Zadatak\Projektni Zadatak\bin\Debug\Projektni Zadatak.exe
+C:\Users\Dejan\Desktop\Z3_PR_2, PR45_2019, Dejan Kurdulija\Projektni Zadatak\Projektni Zadatak\bin\Debug\Projektni Zadatak.pdb
+C:\Users\Dejan\Desktop\Z3_PR_2, PR45_2019, Dejan Kurdulija\Projektni Zadatak\Projektni Zadatak\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Dejan\Desktop\Z3_PR_2, PR45_2019, Dejan Kurdulija\Projektni Zadatak\Projektni Zadatak\obj\Debug\Projektni Zadatak.csproj.AssemblyReference.cache
+C:\Users\Dejan\Desktop\Z3_PR_2, PR45_2019, Dejan Kurdulija\Projektni Zadatak\Projektni Zadatak\obj\Debug\Projektni Zadatak.csproj.CoreCompileInputs.cache
+C:\Users\Dejan\Desktop\Z3_PR_2, PR45_2019, Dejan Kurdulija\Projektni Zadatak\Projektni Zadatak\obj\Debug\Projektni Zadatak.exe
+C:\Users\Dejan\Desktop\Z3_PR_2, PR45_2019, Dejan Kurdulija\Projektni Zadatak\Projektni Zadatak\obj\Debug\Projektni Zadatak.pdb
